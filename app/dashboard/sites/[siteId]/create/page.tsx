@@ -69,6 +69,7 @@ export default function ArticleCreationRoute({
         </Button>
         <h1 className="text-xl font-semibold">Create Article</h1>
       </div>
+
       <Card>
         <CardHeader>
           <CardTitle>Article Details</CardTitle>
